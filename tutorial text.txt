@@ -1,4 +1,4 @@
-Tutorial push
+Tutorial push/mengupload perubahan ke github
 
 1. git add .
 
@@ -17,3 +17,6 @@ Tutorial kolaborasi
 4. git commit -m "komennya"
 
 5. git push -u origin master
+
+cara pull/menarik perubahan dari github ke folder file
+1. git pull
